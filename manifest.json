@@ -1,0 +1,23 @@
+{
+  "name": "MeuAppIMC",
+  "short_name": "IMC",
+  "description": "Calculadora de IMC com recomendações de saúde.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "id": "/",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "launch_handler": {}
+}
